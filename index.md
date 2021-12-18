@@ -1,16 +1,12 @@
-```markdown
-Syntax highlighted code block
+## Our injecter includes features such as,
+- Opening and Saving Files
+- Quick injecting speeds
+- **LVL 7 API**
 
-# Header 1
-## Header 2
-### Header 3
+## Why use this injector?
+1. You only need to pull a key ONCE to use it
+2. All scripts work (Ones that have no issues with the script itself)
+3. Clean GUI
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# Download
+[Download Injector](https://github.com/ReaperStudi0s/GrimInjector/releases) `Thank you for trying our Injector`

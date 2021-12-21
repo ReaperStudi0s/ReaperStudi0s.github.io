@@ -12,6 +12,7 @@
 
 # Download
 [Download Injector](https://github.com/ReaperStudi0s/GrimInjector/releases) `Thank you for trying our Injector`
+
 [Discord](https://discord.gg/hrW7Jp7W8R)
 
 `"Fun to win, Fun to hack" - ReaperStudios 12/18/2021`
